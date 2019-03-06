@@ -4,6 +4,7 @@
 Hello World
 Cherish life
 
+```html
 <head>
 
     <title> Anthony Codes html</title>
@@ -18,3 +19,4 @@ Cherish life
       </body>
 
 <html>
+```
